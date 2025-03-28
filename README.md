@@ -1,4 +1,4 @@
 "# Kemet" 
 
 To run the app:
-    flask --app hello run
+    flask --app kemet run
